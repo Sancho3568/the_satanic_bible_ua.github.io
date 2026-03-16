@@ -1,0 +1,29 @@
+body {
+background-image: url('img/bek.jpg');
+height: 80px;
+}
+header {
+background-image: url('img/bek4.png');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 400px; 
+width: 100%;
+}
+big {
+text-align:center;
+font-size:50px;
+}
+i{
+font-size:25px;
+}
+p {
+text-align: center;
+}
+.b {
+background-color:white;
+border-radius:10px;
+}
+.a {
+color:white;
+}
